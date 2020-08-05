@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>GameLauncher</RootNamespace>
+    <Authors>KahunaElGrande</Authors>
+    <Company>Knights-Table.net</Company>
+    <Description>Abstraction Layer for Knights-Table Game Launcher</Description>
+    <PackageLicenseExpression>gpl-3.0</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Knights-Table/GameLauncher.Abstractions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Knights-Table/GameLauncher.Abstractions</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>Abstract, Game, Launcher, Rust, Updater, Auto</PackageTags>
+  </PropertyGroup>
+
+</Project>
